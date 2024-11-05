@@ -1,0 +1,5 @@
+errors
+agent_workspace
+agent_rearrange.log
+swarm_matcher.log
+.env
